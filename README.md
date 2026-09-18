@@ -268,4 +268,4 @@ This repository serves as the official landing page for The First Berserker: Kha
 **Get the most recent version of The First Berserker: Khazan today!**
 
 ---
-**Last updated:** 2026-09-18 15:15:36 UTC
+**Last updated:** 2026-09-18 18:40:29 UTC
